@@ -1,4 +1,4 @@
-# 01-University-Rankings-EDA
+# University-Rankings-EDA
 World University Rankings
 
 The dataset was taken for training purposes from the site:
